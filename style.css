@@ -1,0 +1,20 @@
+body{
+    background:black;
+    
+}
+h1{
+   color:Lightblue;
+   text-align:center;
+}
+h2{
+    color:violet;
+    text-align:center;
+}
+h4{
+    font-style:italic;
+    color:lightblue;
+    text-align:center;
+}
+a{
+    text-align:center;
+}
